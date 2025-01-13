@@ -34,7 +34,8 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
   #### Room type Analysis
 ![Room type analysis](https://github.com/user-attachments/assets/c4eb0007-69e3-4bb0-9c44-ea3d54e58170)
   #### Location Analysis
-![Location analysis](https://github.com/user-attachments/assets/d0eaea05-e127-4f80-9062-39ea7b918e1d)
+![Location analysis](https://github.com/user-attachments/assets/86e2c43c-b6c6-49c9-a575-16d15582758d)
+
 
 
 
