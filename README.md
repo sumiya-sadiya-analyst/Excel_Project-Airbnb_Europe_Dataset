@@ -29,6 +29,7 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
 - Applied slicers to interact data dynamically  
 
 ## Dashboards 
+      #### Price Analysis
 ![Price analysis](https://github.com/user-attachments/assets/74377730-c938-4a8a-bb3b-f1c940e73a86)
 ![Room type analysis](https://github.com/user-attachments/assets/c4eb0007-69e3-4bb0-9c44-ea3d54e58170)
 ![Location analysis](https://github.com/user-attachments/assets/d0eaea05-e127-4f80-9062-39ea7b918e1d)
