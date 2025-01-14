@@ -59,6 +59,8 @@ justify higher costs (Improve High-Priced Listings).
 - Similar price points in competing platforms (Local Competition) could reduce market 
 share  or negative impact. 
 
+
+
 2. Room Type Analysis: SWOT 
 ### Strengths 
 • High demand for entire home/apartments reflects customer preference for privacy and 
@@ -76,6 +78,8 @@ shared kitchen facilities but separate living spaces, to cater to niche demands.
 ### Threats 
 •  Poor reviews (negative reviews impact) for shared and private rooms could harm overall 
 reputation.
+
+
 
 3. Location Analysis: SWOT
 ### Strengths 
