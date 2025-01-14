@@ -40,8 +40,6 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
 
 1. Price Analysis: SWOT
 ### Strengths 
-- Hosts can adjust weekend prices slightly higher, as seen with Amsterdam's weekend rates 
-(Dynamic Pricing Advantage) outperforming weekday averages. 
 - The $184.46 and $161.55 pricing categories are frequently booked, indicating strong 
 customer willingness to pay within this range (High Average Price Categories). 
 - Cities like Amsterdam, Barcelona, Paris, and Berlin showcase strong revenue potential 
@@ -53,19 +51,49 @@ Differences) may limit revenue potential in less dynamic markets.
 - Despite having the highest average price (Room with 6 Bedrooms Challenges), such 
 rooms may face demand challenges due to high price sensitivity.
 ### Opportunities 
-- Focused strategies to enhance weekend pricing in cities (Weekend Revenue 
-Maximization) with high demand (e.g., Amsterdam) can boost revenue.
 - Special promotions or packages (Customer Incentives) for long stays during weekdays to 
 balance demand. 
 - Invest in cleanliness, amenities, or value-added services for premium-priced rooms to 
 justify higher costs (Improve High-Priced Listings). 
 ### Threats 
-- Higher pricing categories may see reduced demand (Economic Sensitivity) during 
-economic downturns. 
 - Similar price points in competing platforms (Local Competition) could reduce market 
 share  or negative impact. 
 
+2. Room Type Analysis: SWOT 
+### Strengths 
+• High demand for entire home/apartments reflects customer preference for privacy and 
+comfort. 
+### Weaknesses 
+•  Shared rooms have low guest satisfaction and cleanliness ratings, making them less 
+attractive to customers.  
+### Opportunities 
+• Introduce features like upgraded furnishings, better soundproofing, or complimentary 
+services (Enhance Private Room Experience)to improve guest satisfaction. 
+• Shared Room Improvements: Boost cleanliness standards and consider additional perks 
+(e.g., secure storage, flexible check-in). 
+• Expand Room Types: Experiment with hybrid room types, such as private rooms with 
+shared kitchen facilities but separate living spaces, to cater to niche demands. 
+### Threats 
+•  Poor reviews (negative reviews impact) for shared and private rooms could harm overall 
+reputation.
 
+3. Location Analysis: SWOT
+### Strengths 
+- High restaurant indices in city centers (City Center Advantage) attract customers who 
+value convenience and cultural experiences. 
+- Cities like Athens, Budapest, and Rome with the highest super host 
+percentages signify strong customer trust and satisfaction, boosting repeat bookings. 
+### Weaknesses 
+- Listings farther from city centers may struggle to attract bookings 
+despite proximity to high restaurant indices. 
+### Opportunities 
+- Highlight super host properties (Leverage Super host Status) in marketing campaigns to 
+attract more customers. 
+-  Expand listings in slightly farther locations with good 
+transport connectivity (e.g., 3.08 km distance locations). 
+### Threats 
+- Overreliance on cities like Athens and Budapest may 
+limit growth potential elsewhere (Dependence on Super host Cities).
 
 
 
