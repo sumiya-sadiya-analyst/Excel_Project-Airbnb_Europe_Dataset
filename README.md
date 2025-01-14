@@ -36,8 +36,34 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
   #### Location Analysis
 ![Location analysis](https://github.com/user-attachments/assets/86e2c43c-b6c6-49c9-a575-16d15582758d)
 
+## Insights
 
-
+1. Price Analysis: SWOT
+### Strengths 
+• Hosts can adjust weekend prices slightly higher, as seen with Amsterdam's weekend rates 
+(Dynamic Pricing Advantage) outperforming weekday averages. 
+•  The $184.46 and $161.55 pricing categories are frequently booked, indicating strong 
+customer willingness to pay within this range (High Average Price Categories). 
+• Cities like Amsterdam, Barcelona, Paris, and Berlin showcase strong revenue potential 
+(High Revenue Cities), with Amsterdam particularly thriving on weekends. 
+### Weaknesses 
+• Lack of substantial variance between weekday and weekend prices (Minimal Pricing 
+Differences) may limit revenue potential in less dynamic markets. 
+• Limited room price diversity could less focus for price-sensitive customers. 
+• Despite having the highest average price (Room with 6 Bedrooms Challenges), such 
+rooms may face demand challenges due to high price sensitivity.
+### Opportunities 
+• Focused strategies to enhance weekend pricing in cities (Weekend Revenue 
+Maximization) with high demand (e.g., Amsterdam) can boost revenue. 
+• Special promotions or packages (Customer Incentives) for long stays during weekdays to 
+balance demand. 
+•  Invest in cleanliness, amenities, or value-added services for premium-priced rooms to 
+justify higher costs (Improve High-Priced Listings). 
+### Threats 
+• Higher pricing categories may see reduced demand (Economic Sensitivity) during 
+economic downturns. 
+•  Similar price points in competing platforms (Local Competition) could reduce market 
+share  or negative impact. 
 
 
 
