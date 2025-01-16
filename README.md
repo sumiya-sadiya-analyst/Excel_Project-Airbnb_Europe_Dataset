@@ -22,7 +22,7 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
 ![main data](https://github.com/user-attachments/assets/d3dfe695-1530-4c8c-9da8-077b853d67b1)
 
 ## Process
-- Verify data for any missing values.
+- Verified data for any missing values.
 - Made sure data is consistent and clean with respective data type, data format and values used.
 - Created pivot tables according to the queries.
 - Merged all pivot tables into three dashboards.
