@@ -41,13 +41,10 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
 ### Price Analysis: SWOT
 #### Strengths 
 - The $184.46 and $161.55 pricing categories are frequently booked, indicating strong 
-customer willingness to pay within this range (High Average Price Categories). 
-- Cities like Amsterdam, Barcelona, Paris, and Berlin showcase strong revenue potential 
-(High Revenue Cities), with Amsterdam particularly thriving on weekends. 
+customer willingness to pay within this range.
+- Cities like Amsterdam, Barcelona, Paris, and Berlin showcase strong revenue potential. 
 #### Weaknesses 
-- Lack of substantial variance between weekday and weekend prices (Minimal Pricing 
-Differences) may limit revenue potential in less dynamic markets.
-- Limited room price diversity could less focus for price-sensitive customers. 
+- Lack of substantial variance between weekday and weekend prices may limit revenue potential in less dynamic markets.
 - Despite having the highest average price (Room with 6 Bedrooms Challenges), such 
 rooms may face demand challenges due to high price sensitivity.
 #### Opportunities 
@@ -67,17 +64,13 @@ comfort.
 •  Shared rooms have low guest satisfaction and cleanliness ratings, making them less 
 attractive to customers.  
 #### Opportunities 
-• Introduce features like upgraded furnishings, better soundproofing, or complimentary 
-services (Enhance Private Room Experience)to improve guest satisfaction. 
 • Shared Room Improvements: Boost cleanliness standards and consider additional perks 
 (e.g., secure storage, flexible check-in). 
-• Expand Room Types: Experiment with hybrid room types, such as private rooms with 
+• Experiment with hybrid room types, such as private rooms with 
 shared kitchen facilities but separate living spaces, to cater to niche demands. 
 #### Threats 
 •  Poor reviews (negative reviews impact) for shared and private rooms could harm overall 
 reputation.
-
-
 
 ### Location Analysis: SWOT
 #### Strengths 
@@ -92,7 +85,7 @@ despite proximity to high restaurant indices.
 - Highlight super host properties (Leverage Super host Status) in marketing campaigns to 
 attract more customers. 
 -  Expand listings in slightly farther locations with good 
-transport connectivity (e.g., 3.08 km distance locations). 
+transport connectivity.
 #### Threats 
 - Overreliance on cities like Athens and Budapest may 
 limit growth potential elsewhere (Dependence on Super host Cities).
