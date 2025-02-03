@@ -6,11 +6,11 @@ An Airbnb dataset typically provides information about various listings on the p
 ## Problem Statement
 While Airbnb offers diverse listings, not all properties perform equally well. Hosts and the company often face challenges like low occupancy rates, negative reviews, or pricing inefficiencies. Understanding these factors is crucial to optimize the listing's performance and improve guest satisfaction.
 ## Factors Determining the Growth
--	Guest Satisfaction
--	Pricing Strategies
--	Evaluating Host Performance
--	Impact of Location
--	Ratings or Reviews
+-	Guest satisfaction
+-	Pricing strategies
+-	Evaluating host performance
+-	Impact of location
+-	Ratings or reviews
 
 ## Dataset used
 - <a href= "https://github.com/sumiya-sadiya-analyst/Excel_Project-Airbnb_Europe_Dataset/blob/main/Sumiya_Airbnb_Europe_Dataset_Excel_Project.xlsx">Dataset</a>
