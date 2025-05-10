@@ -11,9 +11,6 @@ While Airbnb offers diverse listings, not all properties perform equally well. H
 -	Evaluating host performance
 -	Impact of location
 -	Ratings or reviews
-
-## Dataset used
-- <a href= "">Download Dataset</a>
   
 ## Questions
 ![Queries ](https://github.com/user-attachments/assets/6de92e68-4301-4a5e-a06a-8e611aa5ed7b)
