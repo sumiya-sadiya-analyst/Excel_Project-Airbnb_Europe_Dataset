@@ -1,5 +1,5 @@
-
-# Airbnb Europe Hotels Booking Analysis 
+# Excel Project
+## Airbnb Europe Hotels Booking Analysis 
 
 ## Overview of an Airbnb Dataset 
 An Airbnb dataset typically provides information about various listings on the platform, including details about properties, hosts, prices, reviews, and locations. This dataset will be valuable for analyzing trends, understanding guest preferences, and making decisions to improve services or optimize pricing strategies.
