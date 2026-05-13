@@ -1,7 +1,7 @@
 # Excel Project
 ## Airbnb Europe Hotels Booking Analysis 
 
-## Overview of an Airbnb Dataset 
+## Overview 
 This Airbnb project typically provides information about various listings on the platform, including details about properties, hosts, prices, reviews, and locations. This dataset will be valuable for analyzing trends, understanding guest preferences, and making decisions to improve services or optimize pricing strategies.
 ## Problem Statement
 While Airbnb offers diverse listings, not all properties perform equally well. Hosts and the company often face challenges like low occupancy rates, negative reviews, or pricing inefficiencies. Understanding these factors is crucial to optimize the listing's performance and improve guest satisfaction.
